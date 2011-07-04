@@ -1,0 +1,12 @@
+name: JumpWarp
+main: streammz.jumpwarp.Core
+version: 0.0.1
+website: 
+author: Streammz
+description: >
+             Public warps with permissions
+commands:
+  jump:
+    description: Main command
+    usage: |
+           /<command> <warp>
